@@ -34,19 +34,225 @@ This course requires:
 Calendar
 --------
 
-| SES # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Introduction | &nbsp; |
-| 2 | History and Place | &nbsp; |
-| 3 |  {{< br >}}{{< br >}} 18th c. Political Culture and 21st c. Digital Humanities {{< br >}}{{< br >}} _Guest: Prof. Jeff Ravel_ {{< br >}}{{< br >}}  | &nbsp; |
-| 4 |  {{< br >}}{{< br >}} History and Material Evidence {{< br >}}{{< br >}} _Guest: Prof. William Broadhead_ {{< br >}}{{< br >}}  | &nbsp; |
-| 5 |  {{< br >}}{{< br >}} Transnational History {{< br >}}{{< br >}} _Guest: Prof. Sana Aiyar_ {{< br >}}{{< br >}}  | &nbsp; |
-| 6 | Academic Journals | Journal Assignment due |
-| 7 | Maps as History | &nbsp; |
-| 8 |  {{< br >}}{{< br >}} Public History {{< br >}}{{< br >}} _Guest: Prof. Chris Capozzola_ {{< br >}}{{< br >}}  | Archive for Final Paper due |
-| 9 | History of a People | &nbsp; |
-| 10 |  {{< br >}}{{< br >}} Environmental History {{< br >}}{{< br >}} _Guest: Prof. Anya Zilberstein_ {{< br >}}{{< br >}}  | &nbsp; |
-| 11 |  {{< br >}}{{< br >}} History of Technology and Business {{< br >}}{{< br >}} _Guest: Prof. JoAnne Yates_ {{< br >}}{{< br >}}  | &nbsp; |
-| 12 | Memoir as History | &nbsp; |
-| 13 | Big History / Beyond History | &nbsp; |
-| 14 | Oral Presentations of Final Papers | Final Paper due
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+History and Place
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+18th c. Political Culture and 21st c. Digital Humanities
+
+_Guest: Prof. Jeff Ravel_
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+History and Material Evidence
+
+_Guest: Prof. William Broadhead_
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Transnational History
+
+_Guest: Prof. Sana Aiyar_
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Academic Journals
+{{< tdclose >}}
+{{< tdopen >}}
+Journal Assignment due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Maps as History
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Public History
+
+_Guest: Prof. Chris Capozzola_
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Archive for Final Paper due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+History of a People
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Environmental History
+
+_Guest: Prof. Anya Zilberstein_
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+History of Technology and Business
+
+_Guest: Prof. JoAnne Yates_
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Memoir as History
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Big History / Beyond History
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Oral Presentations of Final Papers
+{{< tdclose >}}
+{{< tdopen >}}
+Final Paper due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
