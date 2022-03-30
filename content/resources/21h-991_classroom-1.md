@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 30ee943b-ced5-bffc-7aa8-1853fe1331ed
 resourcetype: Image
 title: 21H-991_classroom-1
 uid: 071992b8-6595-c479-517c-8c53515e74c0
